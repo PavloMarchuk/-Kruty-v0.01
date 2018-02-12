@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "05. Kruty", "F:\Projects\0.5 my JS\05. Kruty\", "{19264FE9-EC00-4FE7-9476-9A84F8230309}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63944"
+		Debug.AspNetCompiler.PhysicalPath = "F:\Projects\0.5 my JS\05. Kruty\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63944\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63944"
+		Release.AspNetCompiler.PhysicalPath = "F:\Projects\0.5 my JS\05. Kruty\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63944\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63944"
+		SlnRelativePath = "F:\Projects\0.5 my JS\05. Kruty\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19264FE9-EC00-4FE7-9476-9A84F8230309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19264FE9-EC00-4FE7-9476-9A84F8230309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C195DD0-8751-419A-A112-139C6A83DA56}
+	EndGlobalSection
+EndGlobal
